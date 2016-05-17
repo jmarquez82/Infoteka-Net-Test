@@ -1,1 +1,1 @@
-alert('Prueba Ajax');
+alert('Prueba Ajax 2 ');
